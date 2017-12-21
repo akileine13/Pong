@@ -1,0 +1,23 @@
+*******Instruction*******
+
+Ouvrir pong.exe pour jouer.
+Open pong.exe to play.
+
+Controlleur Gauche: A / Q
+Controler left: A / Q
+
+Controlleur Droit: P / M
+Controler Right: P / M
+
+Espace: Pause
+Space: Paused
+
+Echap: Quitter le jeu
+Escape: Quit game
+
+
+Si le code vous intéresse, contactez moi.
+If you are interested in the code, please contact me.
+
+
+
